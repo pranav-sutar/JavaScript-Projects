@@ -1,0 +1,13 @@
+img{
+    width: 150px;
+}
+.inner{
+    width: 100hw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background-color: rgb(253, 246, 246);
+}
